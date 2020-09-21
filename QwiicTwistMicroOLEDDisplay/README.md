@@ -2,7 +2,7 @@
 Collection of Repositories corresponding to the SparkFun Simple Sketches video series with code, instructions, and parts lists
 This sketch illuminates the RGB LED of the Qwiic Twist and changes its color as you twist the knob while displaying the name of the color on the Micro OLED display.
 
-Parts:
+# Parts:
 SparkFun Qwiic Twist - RGB Rotary Encoder Breakout
 https://www.sparkfun.com/products/15083
 https://cdn.sparkfun.com//assets/parts/1/3/4/3/3/15083-SparkFun_Qwiic_Twist_-_RGB_Rotary_Encoder_Breakout-01.jpg
@@ -23,7 +23,7 @@ Reversible USB A to C Cable - 2m
 https://www.sparkfun.com/products/15424
 https://cdn.sparkfun.com//assets/parts/1/3/9/8/3/15424-Reversible_USB_A_to_C_Cable_-_2m-01.jpg
 
-Instructions:
+# Instructions:
 
 You may need something to support your Qwiic breakout boards as you connect your hardware with Qwiic cables. I hacked together a little prototyping station using an old Arduino and Breadboard Holder from my SIK, some nylon standoff hardware, and some scrap particle board. Another solution is using 3M Dual Lock like Derek Runberg shows here. https://www.sparkfun.com/news/3277
 1. If you haven’t already, solder some breakaway headers onto your Pro Micro so it can be held in place securely by the breadboard, and click it into place.

@@ -1,7 +1,8 @@
 /*
  * This sketch illuminates the RGB LED of the Qwiic Twist and changes its color 
  * as you twist the knob while displaying the name of the color on the Micro OLED 
- * display. Find the code and parts list in the GitHub repo here-> (link)
+ * display. Find the code and parts list in the GitHub repo here-> 
+ * (https://github.com/marcus-stevenson/SFESimpleSketches/tree/master/QwiicTwistMicroOLEDDisplay)
 */
 #include <Wire.h>
 #include "SparkFun_Qwiic_Twist_Arduino_Library.h"

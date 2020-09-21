@@ -2,7 +2,7 @@
  * This sketch illuminates the onboard LED of the Qwick Button, and displays the text “Pressed!” 
  * on the Micro OLED Breakout when the button is pressed and held.
  * Find the code, instructions and parts list in the GitHub repo here->
- * 
+ * https://github.com/marcus-stevenson/SFESimpleSketches/tree/master/QwiicButtonMicroOLEDDisplay
 */
 #include <Wire.h>
 #include <SparkFun_Qwiic_Button.h>

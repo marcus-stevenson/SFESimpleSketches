@@ -1,4 +1,9 @@
-
+/*
+ * This sketch reads the temperature from the Qwiic Environmental Combo Breakout 
+ * and displays it on the Micro OLED Display.
+ * Find the code and parts list in the GitHub repo here->
+ * https://github.com/marcus-stevenson/SFESimpleSketches/tree/master/QwiicEnvironmentalComboMicroOLEDDisplay
+*/
 #include <Wire.h>
 #include <SFE_MicroOLED.h>
 

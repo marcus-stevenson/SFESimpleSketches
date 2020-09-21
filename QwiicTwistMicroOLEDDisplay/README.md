@@ -1,5 +1,4 @@
-# SFESimpleSketches
-Collection of Repositories corresponding to the SparkFun Simple Sketches video series with code, instructions, and parts lists
+# SparkFun Qwiic Twist + Micro OLED Display
 This sketch illuminates the RGB LED of the Qwiic Twist and changes its color as you twist the knob while displaying the name of the color on the Micro OLED display.
 
 # Parts:
